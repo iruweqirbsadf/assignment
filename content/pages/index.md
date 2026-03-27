@@ -392,17 +392,17 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: Maria Walters, Company
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
+        tagline: Testimonial 2
+        subtitle: John Doe, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: John Doe
           styles:
             self:
               borderRadius: full
@@ -422,17 +422,17 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: John Doe, Company
+          “A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away.”
+        tagline: Testimonial 1
+        subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
           url: /images/person-placeholder-light.png
-          altText: John Doe
+          altText: Maria Walters
           styles:
             self:
               borderRadius: full
